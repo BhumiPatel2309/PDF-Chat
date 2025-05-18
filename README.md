@@ -23,7 +23,6 @@ PDF Chat is a powerful application that allows you to interact with PDF document
 1. Clone the repository:
 ```bash
 git clone [repository-url]
-cd AWS-Bedrock
 ```
 
 2. Install dependencies:
