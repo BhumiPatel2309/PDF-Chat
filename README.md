@@ -39,7 +39,7 @@ streamlit run app.py
 
 2. 📝 In the Web Interface:
    - 📤 Click the "Upload a PDF file" button to upload your document
-   - ⏳ Wait for the processing to complete (you'll see progress messages)
+   - ⏳ Wait for the processing to complete
    - 📝 Enter your question in the text input
    - 🤖 Click either "Claude Output" or "Llama2 Output" to get answers
 
